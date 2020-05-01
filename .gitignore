@@ -1,0 +1,7 @@
+stackoverflow/src/main/resources/stackoverflow/stackoverflow.csv
+timeusage/src/main/resources/timeusage/atussum.csv
+wikipedia/src/main/resources/wikipedia/wikipedia.dat
+stackoverflow/target/scala-2.12/classes/stackoverflow/stackoverflow.csv
+timeusage/target/scala-2.12/classes/timeusage/atussum.csv
+wikipedia/target/scala-2.12/classes/wikipedia/wikipedia.dat
+
